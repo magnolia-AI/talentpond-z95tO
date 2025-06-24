@@ -1,4 +1,3 @@
-'''
 import Link from 'next/link'
 import {
   NavigationMenu,
@@ -40,4 +39,3 @@ export function DesktopNav() {
     </NavigationMenu>
   )
 }
-'''
