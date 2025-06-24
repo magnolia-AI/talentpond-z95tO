@@ -1,4 +1,3 @@
-'''
 import Link from 'next/link'
 import { DesktopNav } from '@/components/desktop-nav'
 import { MobileNav } from '@/components/mobile-nav'
@@ -19,4 +18,3 @@ export function Header() {
     </header>
   )
 }
-'''
